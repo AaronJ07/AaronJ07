@@ -25,6 +25,7 @@ CGPA: 3.48
 📆January 2017 - March 2023
 
 BAHASA MELAYU       | A- 
+
 BAHASA INGGERIS     | B 
 PENDIDIKAN MORAL    | A 
 SEJARAH             | A+ 
