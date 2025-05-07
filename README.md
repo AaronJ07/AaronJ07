@@ -77,6 +77,8 @@ Experience
 
 📆25 September, 2024
 
+-----------------------------------------------------------------------------------
+
 🧑‍🏫Tuition Teacher
 
 🏫Qi Meng Tuition Center | 📌Johor, Malaysia
