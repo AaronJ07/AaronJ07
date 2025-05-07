@@ -5,7 +5,7 @@
 A strange person who study hard in Artificial Intelligence~~~
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
-        Education
+Education
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ---------------------------------------------------------------
