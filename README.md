@@ -105,7 +105,13 @@ Project Involve and FYP
 
 ![Alt text](codes/food ordering system)
 
-Co-engineer: 1. 
+Co-engineer: 1. TENG ZHI HONG
+             2. LEE SHI WEI
+             3. TEO TZH HONG
+             4. TE YU JYE
+             5. LEE HAO ZHE
+
+--------------------------------------------------------------------------------------
 
 👟Shoe Management System
 
@@ -113,7 +119,10 @@ Co-engineer: 1.
 
 ![Alt text](codes/shoe management system)
 
-Co-engineer: 1. TEE XIN FENG
-             2. SIN KAI XING
-             3. CHIOK KAH YANG 
-             4. MELVIN CHIN IK THER 
+Co-engineer: 1. TENG ZHI HONG
+             2. TEE XIN FENG
+             3. SIN KAI XING
+             4. CHIOK KAH YANG 
+             5. MELVIN CHIN IK THER 
+
+---------------------------------------------------------------------------------------
