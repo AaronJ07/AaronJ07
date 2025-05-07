@@ -97,6 +97,14 @@ Workshop Helper
 Project and FYP
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+🧮Grade Point Average (GPA)
+
+![Alt text](codes/Grade Point Average (GPA))
+
+📆February 2024
+
+--------------------------------------------------------------------------------------
+
 😋Food Ordering System
 
 📂Final Year Project (Foundation)
