@@ -69,3 +69,19 @@ BAHASA CINA         | B+
 Experience
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+🧑‍🏫Tuition Teacher
+
+🏫Qi Meng Tuition Center | 📌Johor, Malaysia
+
+📆April 2023 - June 2023
+
+-----------------------------------------------------------------------------------
+
+Workshop Helper
+
+🏢Bengkel Sembur Cat Kenderaan Seng Guan | 📌Johor, Malaysia
+
+📆Part Time
+
+------------------------------------------------------------------------------------
+
