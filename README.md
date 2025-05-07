@@ -2,7 +2,7 @@
 
 ![Alt text](images/penguin.jpg)
 
-A strange person who study hard in Artificial Intelligence~~~
+A person who like penguin and study hard in Artificial Intelligence~~~
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Education
