@@ -99,14 +99,21 @@ Project Involve and FYP
 
 😋Food Ordering System
 
-📆Final Year Project (Foundation)
+📂Final Year Project (Foundation)
 
 📆May 2024
 
 ![Alt text](codes/food ordering system)
 
-Shoe Management System
+Co-engineer: 1. 
+
+👟Shoe Management System
 
 📆January 2025
 
 ![Alt text](codes/shoe management system)
+
+Co-engineer: 1. TEE XIN FENG
+             2. SIN KAI XING
+             3. CHIOK KAH YANG 
+             4. MELVIN CHIN IK THER 
