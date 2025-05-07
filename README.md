@@ -94,6 +94,19 @@ Workshop Helper
 ------------------------------------------------------------------------------------
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Project Involve
+Project Involve and FYP
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+😋Food Ordering System
+
+📆Final Year Project (Foundation)
+
+📆May 2024
+
+![Alt text](codes/food ordering system)
+
+Shoe Management System
+
+📆January 2025
+
+![Alt text](codes/shoe management system)
