@@ -26,14 +26,22 @@ CGPA: 3.48
 
 BAHASA MELAYU       | A- 
 
-BAHASA INGGERIS     | B 
+BAHASA INGGERIS     | B
+
 PENDIDIKAN MORAL    | A 
+
 SEJARAH             | A+ 
+
 MATEMATIK           | A 
+
 MATEMATIK TAMBAHAN  | C+ 
+
 FIZIK               | B+ 
+
 KIMIA               | C+ 
+
 BIOLOGI             | B+ 
+
 BAHASA CINA         | B+ 
 
 🎓Ujian Pencapaian Sekolah Rendah (UPSR)
