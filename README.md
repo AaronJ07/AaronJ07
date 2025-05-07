@@ -17,6 +17,7 @@ Education
 📆July 2024 - Present
 
 CGPA: 3.79 | First Class Honours
+
 --------------------------------------------------------------------------------
 🎓Foundation in Information Technology
 
@@ -25,6 +26,7 @@ CGPA: 3.79 | First Class Honours
 📆July 2023 - July 2024
 
 CGPA: 3.48
+
 ---------------------------------------------------------------------------------
 
 🎓Sijil Pelajaran Malaysia (SPM)
@@ -52,6 +54,7 @@ KIMIA               | C+
 BIOLOGI             | B+ 
 
 BAHASA CINA         | B+ 
+
 ---------------------------------------------------------------------------------
 
 🎓Ujian Pencapaian Sekolah Rendah (UPSR)
