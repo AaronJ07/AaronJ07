@@ -2,7 +2,9 @@
 
 ![Alt text](images/penguin.jpg)
 
-A person who like penguin and study hard in Artificial Intelligence~~~
+A person who like penguin🐧 and study hard in Artificial Intelligence~~~
+
+🔗LinkedIn Link: www.linkedin.com/in/teng-zhi-hong-7978452b4
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Education
@@ -25,7 +27,7 @@ CGPA: 3.79 | First Class Honours
 
 📆July 2023 - July 2024
 
-CGPA: 3.48
+CGPA: 3.48 | Second Upper Honours
 
 ---------------------------------------------------------------------------------
 
@@ -68,6 +70,12 @@ BAHASA CINA         | B+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Experience
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+🎪Booth Committee
+
+✨Integrity and Leadership Day | Melaka, Malaysia
+
+📆25 September, 2024
 
 🧑‍🏫Tuition Teacher
 
