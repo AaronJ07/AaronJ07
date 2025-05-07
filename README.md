@@ -1,5 +1,12 @@
 # Hi😊, I'm Zhi Hong
 
-Personal Information
-
 ![Alt text](images/penguin.jpg)
+
+A strange person who study hard in Artificial Intelligence~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+|   Education Background  |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+---------------------------------------------------------------
+
