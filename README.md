@@ -73,7 +73,7 @@ Experience
 
 🎪Booth Committee
 
-✨Integrity and Leadership Day | Melaka, Malaysia
+✨Integrity and Leadership Day | 📌Melaka, Malaysia
 
 📆25 September, 2024
 
