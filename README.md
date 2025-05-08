@@ -2,7 +2,7 @@
 
 ![Alt text](images/penguin.jpg)
 
-A person who like penguin🐧 and study hard in Artificial Intelligence~~~
+A person who like penguin🐧 and study in Artificial Intelligenceeee~~~
 
 🔗LinkedIn Link: www.linkedin.com/in/teng-zhi-hong-7978452b4
 
