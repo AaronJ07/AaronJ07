@@ -127,7 +127,7 @@ Co-engineer: 1. TENG ZHI HONG
 
 📆January 2025
 
-[Open Main Script](./codes/shoe management system.cpp)
+(./codes/shoe management system.cpp)
 
 Co-engineer: 1. TENG ZHI HONG
              2. TEE XIN FENG
