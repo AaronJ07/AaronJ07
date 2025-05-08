@@ -101,7 +101,7 @@ Project and FYP
 
 🧮Grade Point Average (GPA)
 
-[Open Main Script](./codes/Grade Point Average (GPA).c)
+[Open Main Script](https://github.com/AaronJ07/AaronJ07/blob/main/codes/Grade%20Point%20Average%20(GPA).c)
 
 📆February 2024
 
