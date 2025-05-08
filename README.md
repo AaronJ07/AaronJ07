@@ -101,7 +101,7 @@ Project and FYP
 
 🧮Grade Point Average (GPA)
 
-![Alt text](codes/Grade Point Average (GPA))
+[Open Main Script](./codes/Grade Point Average (GPA).c)
 
 📆February 2024
 
@@ -113,7 +113,7 @@ Project and FYP
 
 📆May 2024
 
-![Alt text](codes/food ordering system)
+[Open Main Script](./codes/food ordering system.cpp)
 
 Co-engineer: 1. TENG ZHI HONG
              2. LEE SHI WEI
@@ -127,7 +127,7 @@ Co-engineer: 1. TENG ZHI HONG
 
 📆January 2025
 
-![Alt text](codes/shoe management system)
+[Open Main Script](./codes/shoe management system.cpp)
 
 Co-engineer: 1. TENG ZHI HONG
              2. TEE XIN FENG
