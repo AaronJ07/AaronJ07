@@ -101,7 +101,7 @@ Project and FYP
 
 🧮Grade Point Average (GPA)
 
-[Open Main Script](https://github.com/AaronJ07/AaronJ07/blob/main/codes/Grade%20Point%20Average%20(GPA).c)
+[View My Code](https://github.com/AaronJ07/AaronJ07/blob/main/codes/Grade%20Point%20Average%20(GPA).c)
 
 📆February 2024
 
@@ -113,7 +113,7 @@ Project and FYP
 
 📆May 2024
 
-[Open Main Script](./codes/food ordering system.cpp)
+[View My Code](https://github.com/AaronJ07/AaronJ07/blob/main/codes/food%20ordering%20system.cpp)
 
 Co-engineer: 1. TENG ZHI HONG
              2. LEE SHI WEI
@@ -127,7 +127,7 @@ Co-engineer: 1. TENG ZHI HONG
 
 📆January 2025
 
-(./codes/shoe management system.cpp)
+[View My Code](https://github.com/AaronJ07/AaronJ07/blob/main/codes/shoe%20management%20system.cpp)
 
 Co-engineer: 1. TENG ZHI HONG
              2. TEE XIN FENG
