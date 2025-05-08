@@ -117,7 +117,7 @@ Project and FYP
 
 Co-engineer: 1. TENG ZHI HONG
              2. LEE SHI WEI
-             3. TEO TZH HONG
+             3. TEO TZE HONG
              4. TE YU JYE
              5. LEE HAO ZHE
 
