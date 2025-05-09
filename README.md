@@ -143,7 +143,7 @@ Co-engineer: 1. TENG ZHI HONG
 
 💬IBM SkillsBuild Chatbox
 
-📆8 May 2025
+📆May 2025
 
 [View My Cert](https://github.com/AaronJ07/AaronJ07/blob/main/achievements/IBM%20Skills%20Build%20Chatbox%20Course.jpg)
 
