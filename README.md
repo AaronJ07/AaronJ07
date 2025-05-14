@@ -1,6 +1,6 @@
 # Hi😊, I'm Zhi Hong
 
-![Alt text](images/penguin.jpg)
+![Alt text](images/audi.jpg)
 
 A person who like penguin🐧 and study in Artificial Intelligenceeee~~~
 
@@ -161,6 +161,6 @@ Co-engineer: 1. TENG ZHI HONG
 
 📆May 2025
 
-[View My Cert](https://github.com/AaronJ07/AaronJ07/blob/main/achievements/IBM%20Skills%20Build%20Chatbox%20Course.jpg)
+[View My Sticker](https://github.com/AaronJ07/AaronJ07/blob/main/achievements/IBM%20Skills%20Build%20Chatbox%20Course.jpg)
 
 -----------------------------------------------------------------------------------------
