@@ -1,6 +1,6 @@
 # Hi😊, I'm Zhi Hong
 
-![Alt text](images/audi.jpg)
+![Alt text](images/audi.png)
 
 A person who like penguin🐧 and study in Artificial Intelligenceeee~~~
 
