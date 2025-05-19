@@ -161,6 +161,12 @@ Co-engineer: 1. TENG ZHI HONG
 
 📆May 2025
 
-[View My Sticker](https://github.com/AaronJ07/AaronJ07/blob/main/achievements/IBM%20Skills%20Build%20Chatbox%20Course.jpg)
+[ View My Sticker ](https://github.com/AaronJ07/AaronJ07/blob/main/achievements/IBM%20Skills%20Build%20Chatbox%20Course.jpg)
+
+🧑‍💻Solo Learn Python Course
+
+📆1 July 2020
+
+[ View My Cert ](https://github.com/AaronJ07/AaronJ07/blob/main/achievements/Solo Learn_Python.jpg)
 
 -----------------------------------------------------------------------------------------
