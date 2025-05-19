@@ -167,6 +167,6 @@ Co-engineer: 1. TENG ZHI HONG
 
 📆1 July 2020
 
-[ View My Cert ](https://github.com/AaronJ07/AaronJ07/blob/main/achievements/Solo Learn_Python.jpg)
+[ View My Cert ](https://github.com/AaronJ07/AaronJ07/blob/main/achievements/Solo%Learn_Python.jpg)
 
 -----------------------------------------------------------------------------------------
