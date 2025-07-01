@@ -1,7 +1,5 @@
 # Hi😊, I'm Zhi Hong
 
-![Alt text](images/audi.png)
-
 A person who like penguin🐧 and study in Artificial Intelligenceeee~~~
 
 🔗LinkedIn Link: www.linkedin.com/in/teng-zhi-hong-7978452b4
