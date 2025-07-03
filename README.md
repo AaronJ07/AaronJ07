@@ -119,36 +119,6 @@ Project and FYP
 
 📆February 2024
 
---------------------------------------------------------------------------------------
-
-😋Food Ordering System
-
-📂Final Year Project (Foundation)
-
-📆May 2024
-
-[View My Code](https://github.com/AaronJ07/AaronJ07/blob/main/codes/food%20ordering%20system.cpp)
-
-Co-engineer: 1. TENG ZHI HONG
-             2. LEE SHI WEI
-             3. TEO TZE HONG
-             4. TE YU JYE
-             5. LEE HAO ZHE
-
---------------------------------------------------------------------------------------
-
-👟Shoe Management System
-
-📆January 2025
-
-[View My Code](https://github.com/AaronJ07/AaronJ07/blob/main/codes/shoe%20management%20system.cpp)
-
-Co-engineer: 1. TENG ZHI HONG
-             2. TEE XIN FENG
-             3. SIN KAI XING
-             4. CHIOK KAH YANG 
-             5. MELVIN CHIN IK THER 
-
 ---------------------------------------------------------------------------------------
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
